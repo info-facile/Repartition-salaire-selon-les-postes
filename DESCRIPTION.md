@@ -1,4 +1,4 @@
-# Répartition du salaire selon les postes
+# 📌 Répartition du salaire selon les postes
 
 Ce projet est une aide à la répartion de son salaire selon les différents postes ou charges définies au préalable.
 
